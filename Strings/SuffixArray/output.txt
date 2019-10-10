@@ -1,0 +1,52 @@
+9:	ATHEMATICSNOTHERE
+14:	ATICSNOTHERE
+17:	CSNOTHERE
+25:	E
+12:	EMATICSNOTHERE
+2:	EOTHERMATHEMATICSNOTHERE
+23:	ERE
+6:	ERMATHEMATICSNOTHERE
+11:	HEMATICSNOTHERE
+1:	HEOTHERMATHEMATICSNOTHERE
+22:	HERE
+5:	HERMATHEMATICSNOTHERE
+16:	ICSNOTHERE
+8:	MATHEMATICSNOTHERE
+13:	MATICSNOTHERE
+19:	NOTHERE
+20:	OTHERE
+3:	OTHERMATHEMATICSNOTHERE
+24:	RE
+7:	RMATHEMATICSNOTHERE
+18:	SNOTHERE
+10:	THEMATICSNOTHERE
+0:	THEOTHERMATHEMATICSNOTHERE
+21:	THERE
+4:	THERMATHEMATICSNOTHERE
+15:	TICSNOTHERE
+LCP between 0 and 1 is 2
+LCP between 1 and 2 is 0
+LCP between 2 and 3 is 0
+LCP between 3 and 4 is 1
+LCP between 4 and 5 is 1
+LCP between 5 and 6 is 1
+LCP between 6 and 7 is 2
+LCP between 7 and 8 is 0
+LCP between 8 and 9 is 2
+LCP between 9 and 10 is 2
+LCP between 10 and 11 is 3
+LCP between 11 and 12 is 0
+LCP between 12 and 13 is 0
+LCP between 13 and 14 is 3
+LCP between 14 and 15 is 0
+LCP between 15 and 16 is 0
+LCP between 16 and 17 is 5
+LCP between 17 and 18 is 0
+LCP between 18 and 19 is 1
+LCP between 19 and 20 is 0
+LCP between 20 and 21 is 0
+LCP between 21 and 22 is 3
+LCP between 22 and 23 is 3
+LCP between 23 and 24 is 4
+LCP between 24 and 25 is 1
+LCP between 25 and 26 is 0
